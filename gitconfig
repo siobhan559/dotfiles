@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = siobhanbrown559@gmail.com
+	name = Siobhan Brown
